@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "course-1",
+      "description": "Abstract knowledge representation",
+      "imageUrl": "https://picsum.photos/seed/course1/600/400",
+      "imageHint": "abstract education"
+    },
+    {
+      "id": "course-2",
+      "description": "Technology and coding",
+      "imageUrl": "https://picsum.photos/seed/course2/600/400",
+      "imageHint": "computer science"
+    },
+    {
+      "id": "course-3",
+      "description": "Modern architecture",
+      "imageUrl": "https://picsum.photos/seed/course3/600/400",
+      "imageHint": "architecture design"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Professional user avatar",
+      "imageUrl": "https://picsum.photos/seed/user1/150/150",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "hero-bg",
+      "description": "Modern university campus",
+      "imageUrl": "https://picsum.photos/seed/campus/1200/600",
+      "imageHint": "university campus"
+    }
+  ]
+}

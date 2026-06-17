@@ -1,6 +1,6 @@
 # NexusAcademia
 
-NexusAcademia is a modern, AI-enhanced Learning Management System (LMS) built to empower students through structured learning paths, collaborative peer interactions, and intelligent tutoring.
+NexusAcademia is a modern,learning Management System (LMS) built to empower students through structured learning paths, collaborative peer interactions, and intelligent tutoring.
 
 ## 🚀 Features
 
@@ -14,7 +14,6 @@ NexusAcademia is a modern, AI-enhanced Learning Management System (LMS) built to
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
-- **AI Engine**: [Genkit](https://firebase.google.com/docs/genkit) with Google AI (Gemini 2.5 Flash)
 - **Database & Auth**: [Firebase](https://firebase.google.com/)
 - **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -36,7 +35,7 @@ NexusAcademia is a modern, AI-enhanced Learning Management System (LMS) built to
    ```
 
 2. **Environment Setup**:
-   Ensure you have your Firebase and Google AI API keys configured in your environment.
+   Google API keys configured in your environment.
 
 3. **Run Development Server**:
    ```bash
